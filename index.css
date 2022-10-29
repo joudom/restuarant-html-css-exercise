@@ -1,0 +1,103 @@
+.banner {
+    max-width: 1270px;
+    margin: 0 auto;
+}
+
+.roll {
+    width: 27%;
+}
+
+.shack {
+    width: 27%;
+}
+
+.pho {
+    width: 27%;
+}
+
+.head {
+    max-width: 1270px;
+    width: auto;
+    margin: 0 auto;
+    font-size: 5.5vmax;
+    text-shadow: 3px 1px 0px #ff00009f;
+}
+
+.nav {
+    max-width: 2000px;
+    font-size: 2vmax;
+    position: relative;
+    top: 436px;
+}
+
+body {
+    background-color: beige;
+}
+
+.about {
+    max-width: 1270px;
+    width: auto;
+    font-size: 2vmax;
+}
+
+.intro {
+    max-width: 1270px;
+    width: auto;
+    font-size: 1vmax;
+}
+
+.home-button {
+    color: beige;
+    display: flex;
+    justify-content: end;
+}
+
+.menu-button {
+    color: beige;
+    display: flex;
+    justify-content: end;
+}
+
+.gallery-button {
+    color: beige;
+    display: flex;
+    justify-content: end;
+}
+
+.contact-button {
+    color: beige;
+    display: flex;
+    justify-content: end;
+}
+
+.fb {
+    color: beige;
+}
+
+.ig {
+    color: beige;
+}
+
+.twtr {
+    color: beige;
+}
+
+.tik {
+    color: beige;
+}
+
+.border-pics {
+    max-width: 1270px;
+}
+
+.prep {
+    width: 26%;
+}
+
+.fresh {
+    width: 26%;
+}
+
+.chef {
+    width: 26%;
+}
